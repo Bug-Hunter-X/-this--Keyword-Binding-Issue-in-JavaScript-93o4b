@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript related to the 'this' keyword. The 'bug.js' file shows a function where the 'this' keyword doesn't point to the expected object.  The 'bugSolution.js' file provides a fix using methods like bind(), arrow functions, or setting 'this' explicitly.
